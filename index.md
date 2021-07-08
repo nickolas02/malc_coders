@@ -4,7 +4,10 @@ This is a collection of class samples from Malcom's time with beachcoders, proje
 
 
 
-# Expanding Pages
+## Expanding Pages
 [Demo](https://maddiwi.com/malcom/expanding-cards/index.html)
-- Bulleted
-- List
+
+
+## IMdb API, Movie Search
+[Demo](https://maddiwi.com/malcom/movie-api/index.html)
+
